@@ -1,4 +1,4 @@
 # trovalavoroUNIMI
 Website - University project
 
-Coded by Matteo Insarauto and Thomas Trombini
+Coded by M. Insarauto and T. Trombini
